@@ -1,0 +1,13 @@
+<Project>
+    <PropertyGroup>
+        <MSBuildProjectExtensionsPath>$(SolutionDir)\_Obj\$(MSBuildProjectName)\</MSBuildProjectExtensionsPath>
+        <IntermediateOutputPath>$(SolutionDir)\_Obj\$(MSBuildProjectName)\</IntermediateOutputPath>
+        <BaseOutputPath>$(SolutionDir)\_Bin\$(MSBuildProjectName)\</BaseOutputPath>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <None Remove="*.meta" />
+        <None Remove="*.asmdef" />
+    </ItemGroup>
+    
+</Project>

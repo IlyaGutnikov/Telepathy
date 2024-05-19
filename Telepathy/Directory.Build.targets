@@ -1,0 +1,6 @@
+<Project>
+    <ItemGroup>
+        <None Remove="*.meta" />
+        <None Remove="*.asmdef" />
+    </ItemGroup>
+</Project>

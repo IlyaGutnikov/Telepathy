@@ -1,0 +1,16 @@
+{
+    "name": "Telepathy.LoadTest",
+    "rootNamespace": "",
+    "references": [
+        "GUID:4a7e16e2a6e71de4bba39d695a0ba291"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
